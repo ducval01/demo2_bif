@@ -1,0 +1,7 @@
+#!/bin/bash
+
+awk -F',' '$6<0.05' /home/public/EtudeCas1/condition1_vs_condition2.csv | wc -l
+
+awk -F',' '$6<0.05' /home/public/EtudeCas1/condition1_vs_condition2.csv | awk -F',' '$5<0' | wc -l 
+
+awk -F',' '$6<0.05' /home/public/EtudeCas1/condition1_vs_condition2.csv | awk -F',' '$5>0' | wc -l 

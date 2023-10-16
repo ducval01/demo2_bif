@@ -15,4 +15,5 @@ mkdir /home/etudiant8/EtudeCas/EC1_etudiant08/data/adaptors
 cp /home/public/rna_seq/demo/adaptors.fa /home/etudiant8/EtudeCas/EC1_etudiant08/data/adaptors/adaptors.fa
 
 
-touch README.md
+touch /home/etudiant8/EtudeCas/EC1_etudiant08/README.md
+

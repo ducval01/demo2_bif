@@ -1,0 +1,10 @@
+#!/bin/bash
+
+###########compter le nombres de séquences 
+zgrep -c '+' /home/etudiant8/EtudesCas/EC1_etudiant08/data/raw_data/condition1_rep1_R1.fastq.gz > /home/etudiant8/EtudesCas/EC1_etudiant08/analyses/prelim/seq_condition1_rep1_R1.fastq.gz
+zgrep -c '+' /home/etudiant8/EtudesCas/EC1_etudiant08/data/raw_data/condition1_rep1_R2.fastq.gz > /home/etudiant8/EtudesCas/EC1_etudiant08/analyses/prelim/seq_condition1_rep1_R2.fastq.gz
+zgrep -c '+' /home/etudiant8/EtudesCas/EC1_etudiant08/data/raw_data/condition2_rep1_R1.fastq.gz > /home/etudiant8/EtudesCas/EC1_etudiant08/analyses/prelim/seq_condition2_rep1_R1.fastq.gz
+zgrep -c '+' /home/etudiant8/EtudesCas/EC1_etudiant08/data/raw_data/condition2_rep1_R2.fastq.gz > /home/etudiant8/EtudesCas/EC1_etudiant08/analyses/prelim/seq_condition2_rep1_R2.fastq.gz
+
+
+

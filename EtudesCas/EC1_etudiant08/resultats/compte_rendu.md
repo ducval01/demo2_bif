@@ -26,6 +26,10 @@ Nombre de séquences qui ont survécues: 3125620(76.57%)
 nombre de séquences qui n'ont pas survécues:1196 (0.03%)
 
 
+# analyse DEG 
+nombre de gène différentiellement exprimé FDR 5%: 3627
+nombre de gène différentiellement éprimé FDR 5% et sous exprimé dans la condition 1 vs la condition 2 (FC<0): 1769
+nombre de gène différentiellement éprimé FDR 5% et sous exprimé dans la condition 1 vs la condition 2 (FC>0): 1858
 
 
 

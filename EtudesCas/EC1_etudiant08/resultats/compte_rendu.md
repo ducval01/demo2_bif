@@ -15,5 +15,18 @@ L'analyse FASTQC Per base quality montre que l'on a une bonne qualité de nos R1
 Pour s'épargner cette mauvaise qualité de séquençage on pourrait utiliser le mode Trailing de l'algorithm de Trimmomatic qui permet d'enlever les séquences en bout de reads. 
 
 
+# nettoyage 
+
+condition 1 rep 1 R1 et R2 :  
+Nombre de séquences qui ont survécues: 3394683(76.51%)
+nombre de séquences qui n'ont pas survécues: 16025 (0.36%)
+
+condition 2 rep 1 R1 et R2 : 
+Nombre de séquences qui ont survécues: 3125620(76.57%)
+nombre de séquences qui n'ont pas survécues:1196 (0.03%)
+
+
+
+
 
 
